@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_b0dc5b7a4e998583318cb1ec0137d9455b1cc812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_47b3d8b0b651f573a6042de522b2584a5cff61f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_f792e922ae16950072b1a3800725cd714ac3b348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_0d5a5b72da807fbe168d195ed9f70d5a7d933448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_d97039565220929cf7aba350374b5bd7a43de60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_922c761239d5d8bffd54ab756445ff370b31f8be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_8d486fcb5a2ac6105118e77acaaefdd13fb00941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_a4741128aa9606305a83813cd1f7e3c86f7ef60f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_f08acc7908b1c79ee6624b24091bfd5196bfccff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\myapp1\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25b8cd87cca130b10be7bbec4508bfcc053dcd25">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\myapp1-react-native-navigation-unspecified_df2a3d1f1e4639b54f4e273cf5a067d89889ddee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_2c600659610f1a8956a31d2a43e0ca329fc7d24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_398cd7d3e3a8480809125d620fd268efc97c5056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_ac46a8b1bcabdd7f1ae0b1ed3f912e1d329cedc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\myapp1\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\myapp1-react-native-vector-icons-unspecified_b13727cf4117d797db60da41af4ec5e58d235179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_58f48701629810467b1c4b5e689ffde67cf56149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_c8a07ab6e03f65cdb9516d2da4302ff47a03aa77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_17622a6fa61e551adf8d47605953f94d46de4281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7feac851c2af67cf361df846f370d260c80b39ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_7974335526066a5b82c5fe0aeaf33ff572e82503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6e4809d13a97f8cd690f278e2c01f3f3963e5b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_82ef56c160962ea0e395ef4a389f6dde4833aed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_756259398eb1033b7765477cfc99cd2262101b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_1191353891a23774fa734d39064553d252df1665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\myapp1\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed80840d302bee1f5dd42cefa1fa8e6100100535">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\myapp1-react-native-image-picker-unspecified_50691423fd47811480a0f576f87f7a411cd57a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_bda79877c89c10e28c32b7ca102da779f8348fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_59270cc0f49065d590bc16779e262f44f9debdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_cfc7b1c6dc631fc9a4cac95a400b242b2261416b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_5c1268796f3ed286844a865f0d2d4577b1df8221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_7861031d1e75655f71900617740341943710bae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_574fdf86d588f3af2b4843dae7129b5e7ef6b088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_a57ceb20163d0d28fc8695bab4f30847035c0114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_796c87d50e7374f0f9ce9d0453c3484e6819850e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b5762365977a6a833cf7b4876828f736468150ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_d1c8cef0eef94782c9461c6676648d86f5188dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_bf828878fb6f0f831b3c931a087ac0b7f7fae5f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_8133ae890ac6306b70d88ed5069ab65175aae6eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thanos\myapp1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\thanos\myapp1\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_0dfc98b11c1db74630acd96b86261ea99e497913.jar" />
+    </item>
+
+</items>
